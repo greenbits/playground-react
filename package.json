@@ -6,12 +6,12 @@
     "react-scripts": "0.8.5"
   },
   "dependencies": {
-    "bootstrap": "3",
+    "bootstrap": "3.3.7",
     "faker": "^3.1.0",
-    "fetch-mock": "^5.8.1",
-    "react": "^15.4.2",
-    "react-bootstrap": "^0.30.7",
-    "react-dom": "^15.4.2"
+    "fetch-mock": "^7.0.7",
+    "react": "^16.5.2",
+    "react-bootstrap": "^0.32.4",
+    "react-dom": "^16.5.2"
   },
   "scripts": {
     "start": "react-scripts start",
